@@ -5,10 +5,7 @@ scriptencoding utf-8
 " 日本語版のデフォルトGUI設定ファイル(gvimrc) - Vim 7.4
 "
 " Last Change: 11-Jan-2017.
-" Maintainer:  MURAOKA Taro <koron.kaoriya@gmail.com>
-"
-" 解説:
-" このファイルにはVimの起動時に必ず設定される、GUI関連の設定が書かれていま
+
 " す。編集時の挙動に関する設定はvimrcに書かかれています。
 "
 " 個人用設定は_gvimrcというファイルを作成しそこで行ないます。_gvimrcはこの
